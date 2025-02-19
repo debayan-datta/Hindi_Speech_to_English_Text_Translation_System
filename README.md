@@ -7,7 +7,7 @@
 ## Dataset
   [Dataset-1](https://www.openslr.org/103/)
   
-  [Dataset-2](https://huggingface.co/datasets/cfilt/iitb-english-hindi)
+  [Dataset-2](https://www.clarin.eu/resource-families/parallel-corpora)
 
 ## Contributors
   [Ayan Maity](https://github.com/AyanMaity435601)
